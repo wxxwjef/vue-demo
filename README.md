@@ -6,3 +6,4 @@
 
 ![截图](./screenshot.png)
 ![AR6(1)_0002](https://user-images.githubusercontent.com/37828799/232949452-e51f3184-314d-4095-afc5-e19a84b4d799.png)
+![AR6(1)_0226](https://user-images.githubusercontent.com/37828799/232950115-d71babed-e988-48da-820b-5b064c1584ac.jpeg)
