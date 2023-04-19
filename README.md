@@ -1,4 +1,6 @@
 # Vue 示例项目 · 简易留言板
+![副本IPCC_AR6_WGI_Full_Report 285_01](https://user-images.githubusercontent.com/37828799/232961593-d1ff1601-cd8e-4848-a73a-1d97eabb9048.png)
+
 ![IPCC_AR6_WGI_Full_Report 285黑体_页面_2](https://user-images.githubusercontent.com/37828799/232961164-3fd75520-347a-4c8e-bdf2-975e52955051.png)
 
 ![AR6(1)_0002](https://user-images.githubusercontent.com/37828799/232960430-318013a2-832a-43b4-a72d-a31783d968a0.png)
