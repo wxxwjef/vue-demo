@@ -5,3 +5,4 @@
 [在线 Demo](https://kenberkeley.github.io/vue-demo/dist) | [在线文档](https://kenberkeley.github.io/vue-demo/docs/_book)
 
 ![截图](./screenshot.png)
+![AR6(1)_0002](https://user-images.githubusercontent.com/37828799/232949452-e51f3184-314d-4095-afc5-e19a84b4d799.png)
